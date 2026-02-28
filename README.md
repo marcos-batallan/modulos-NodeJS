@@ -1,2 +1,2 @@
 # modulos-NodeJS
-Este repositorio contiene módulo básico de NodeJS y algunos ejemplos de cómo utilizarlos.
+Este repositorio contiene algunos módulos básico de NodeJS y algunos ejemplos de cómo utilizarlos.
